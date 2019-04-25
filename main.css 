@@ -101,7 +101,7 @@ section .row img {
 .secondquote {
   font-size:20px;
   color: gold;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica,  sans-serif;
 }
 .thirdquote {
   font-size:20px;
