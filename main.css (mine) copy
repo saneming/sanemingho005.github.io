@@ -7,50 +7,50 @@ header {
   padding: 20px 0;
 }
 
-header .row,  
+header .row,
 footer .row {
   display: flex;
   align-items: center;
 }
 
-header h1 { "Sane Ming Ho" 
-  font-weight: 700;
+header h1 { "Sane Ming Ho"
+  font-weight: 200;
   margin: 0;
   font-size:32px
 }
 
 header nav {
   display: flex;
-  justify-content: flex-end;      
+  justify-content: flex-end;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
 }
-.topthreeparagraphs{       
-  color: blue;
+.topthreeparagraphs{
+  color: darkgreen;
 }
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://i1.wp.com/www.mbaprogramsweb.com/wp-content/uploads/2018/06/University%E2%80%93Robert-H-Smith.jpg?w=2200');
+  background-image: url('https://www.whs.gov.hk/res/img/HongKong/overview-1.jpg');
   background-size: cover;
-  color: #ffffff;
+  color: black;
   height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  text-shadow: 1px 1px 1px #000000;
 }
 
 .jumbotron h2 {
-  font-size: 60px;
-  font-weight: 700;
-  margin: 0;
-  color: #fff;
+  font-size: 90px;
+  font-weight: 800;
+  margin: 50;
+  color: red;
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color: #fff;
+  color: red;
 }
 
 section .row img { 
@@ -64,49 +64,59 @@ section .row img {
   font-size: 62px;
 }
 .firstfav {
-  font-size:22px;
-  font-weight: 100;
-  text-align: center; 
-  color: green;
-}
-.secondfav {
-  font-size:25px;
+  font-size:20px;
   font-weight: 200;
   text-align: center; 
-  color: pink;
+  color: blue;
 }
-.threefav {
-  font-size:30px;
-  font-weight: 300;
-  text-align: center; 
-  color: yollow;
-}
-.fourfav {
-  font-size:35px;
-  font-weight: 400;
+.secondfav {
+  font-size:20px;
+  font-weight: 200;
   text-align: center; 
   color: blue;
+}
+.threefav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: red;
+}
+.fourfav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: red;
 }
 
 .quotes {
   font-weight: bold;
-  text-align:center; 
+ 
 }
 
 .firstquote {
-  font-size:15px;
-  color: blue;
+  font-size:20px;
+  color: gold;
   font-family: Arial, Helvetica, sans-serif;
 }
 .secondquote {
   font-size:20px;
-  color: red;
-  font-family: "Times New Roman", Times, serif;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .thirdquote {
-  font-size:25px;
-  color: green;
-  font-family: 'Roboto', sans-serif;
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fourquote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fivequote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .btn.btn-primary {
@@ -119,13 +129,13 @@ section .row img {
 
 .btn.btn-primary:hover {
   color: #ffffff;
-  background-color: #fbd1d5;   
+  background-color: #fbd1d5;
 }
 
 .btn-secondary {
   background-color: #E8DFE0;
   color: #ffffff;
-  margin: 0 0 30px;
+  margin: 0 0 30px; 
 }
 
 footer {
