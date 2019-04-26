@@ -13,7 +13,7 @@ footer .row {
   align-items: center;
 }
 
-header h1 { "Sane Ming Ho"
+header h1 { 
   font-weight: 200;
   margin: 0;
   font-size:32px
@@ -44,7 +44,7 @@ header p {
 .jumbotron h2 {
   font-size: 90px;
   font-weight: 800;
-  margin: 50;
+  margin: 50px;
   color: red;
 }
 
